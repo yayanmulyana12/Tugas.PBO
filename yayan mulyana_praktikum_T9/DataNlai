@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tugas9;
+package yayan_mulyana_praktikum_T9;
 import java.util.ArrayList;
 
 /**
  *
- * @author lenovo yayan
+ * @author LENOVO
  */
 public class DataNlai {
     //Membuat arrayList dengan tipe data mahasiswa 
